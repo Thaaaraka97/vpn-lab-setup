@@ -1,2 +1,41 @@
-# vpn-lab-setup
-The VPN Lab Setup project aims to explore and demonstrate the implementation of multiple VPN solutions. This repository includes step-by-step guides, configuration files, network diagrams, and test results to help you understand and replicate the setups.
+# VPN Lab Setup
+
+This repository contains the setup instructions and configurations for various VPN solutions that I have tested, including WireGuard, Algo VPN, OpenVPN, and SSH forwarding.
+
+## Project Overview
+
+This project aims to provide a comprehensive guide on setting up and testing different VPN solutions. Each VPN solution is documented with step-by-step instructions, configuration files, and test results.
+
+## VPN Solutions
+
+1. **Algo VPN**
+   - Simple and secure VPN setup using Ansible.
+   - Includes configuration files and deployment scripts.
+
+2. **OpenVPN**
+   - Widely used open-source VPN solution.
+   - Configuration files and setup instructions are provided.
+
+3. **SSH Tunneling**
+   - Secure tunneling using SSH.
+   - Setup instructions and example configurations are provided.
+
+## Directory Structure
+
+- `algo-vpn/`: Contains setup instructions, configuration files, and test results for Algo VPN.
+- `openvpn/`: Contains setup instructions, configuration files, and test results for OpenVPN.
+- `ssh-tunneling/`: Contains setup instructions and example configurations for SSH tunneling.
+
+## Getting Started
+
+To get started with any of the VPN solutions, navigate to the respective directory and follow the setup instructions.
+
+### Prerequisites
+
+- Basic knowledge of networking and VPN concepts.
+- A computer with virtualization software or access to cloud instances.
+- Internet access for downloading software and accessing documentation.
+
+## Contributions
+
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements or additional VPN setups.
