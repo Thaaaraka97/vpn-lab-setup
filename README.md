@@ -16,15 +16,10 @@ This project aims to provide a comprehensive guide on setting up and testing dif
    - Widely used open-source VPN solution.
    - Configuration files and setup instructions are provided.
 
-3. **SSH Tunneling**
-   - Secure tunneling using SSH.
-   - Setup instructions and example configurations are provided.
-
 ## Directory Structure
 
 - `algo-vpn/`: Contains setup instructions, configuration files, and test results for Algo VPN.
 - `openvpn/`: Contains setup instructions, configuration files, and test results for OpenVPN.
-- `ssh-tunneling/`: Contains setup instructions and example configurations for SSH tunneling.
 
 ## Getting Started
 
